@@ -1,0 +1,4 @@
+server:
+  port: 54321
+custom:
+  library-directory: "/Users/amos/Temp/experimental/"
